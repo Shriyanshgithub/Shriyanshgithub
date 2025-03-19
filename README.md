@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development and comp
 - 👯 I’m looking to collaborate on **Java projects**.
 - 🤔 I’m looking for help with **career advice**.
 - 💬 Ask me about **DSA and Advanced Java**.
-- 📫 How to reach me: **himanshu2000ranjan@gmail.com**
+- 📫 How to reach me: **gshriyansh703@gmail.com**
 - ⚡ Fun fact: **I am learning Japanese language**.
 
 ---
